@@ -2,6 +2,11 @@
  This is a project which focus on four (4) years Hr data in separate excel files. 
  This data is analysed and an interactive dashboard is built for management decision making. 
 
+
+## Wireframe
+![Screenshot](wireframe.png)
+
+[Wireframe Link](https://excalidraw.com/#room=2188a3621f5e7fbbedf1,alXHJXBw7oh8XuNPnebkxQ)
 ## Final Dashboard
 
 ![Screenshot](hrdashboard.png)
